@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="AP B2B">118ce217974811104823bfb3f153af46</catalog_item>
+        <catalog_variable>IO:693fe217974811104823bfb3f153af5a</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-18 09:34:59</sys_created_on>
+        <sys_id>59a2571397c811104823bfb3f153af76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>approver</sys_name>
+        <sys_package display_value="FLCIT" source="x_660049_flcit">57079617970811104823bfb3f153af9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FLCIT">57079617970811104823bfb3f153af9d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_59a2571397c811104823bfb3f153af76</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-18 09:34:59</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Test ui policy">e472131397c811104823bfb3f153afed</ui_policy>
+        <variable>approver</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>
